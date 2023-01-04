@@ -4,8 +4,6 @@ Self service chatbot using Lex. This is only for demo purposes, not ready for pr
 This Lex Chatbot is a modified version of this original project:
 https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex-ivr
 
-Prerequisites
-
 Before getting started, you must have the following prerequisites:
 
     AWS Account with appropriate permissions.
